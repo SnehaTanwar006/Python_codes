@@ -1,2 +1,2 @@
 # Python_codes
-Python Assignment with codes.
+Python Assignment with program.
